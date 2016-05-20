@@ -10,8 +10,14 @@
 截图如下：
 
 
-https://github.com/ZhanRu/DeleteEditText/blob/master/DeleteEditText/assets/1.png
+![image](https://github.com/ZhanRu/DeleteEditText/blob/master/DeleteEditText/assets/1.png)
 
-https://github.com/ZhanRu/DeleteEditText/blob/master/DeleteEditText/assets/2.png
+![image](https://github.com/ZhanRu/DeleteEditText/blob/master/DeleteEditText/assets/2.png)
 
-https://github.com/ZhanRu/DeleteEditText/blob/master/DeleteEditText/assets/3.png
+![image](https://github.com/ZhanRu/DeleteEditText/blob/master/DeleteEditText/assets/3.png)
+
+
+
+
+
+
