@@ -8,6 +8,8 @@
 
 
 截图如下：
+
+
 https://github.com/ZhanRu/DeleteEditText/blob/master/DeleteEditText/assets/1.png
 
 https://github.com/ZhanRu/DeleteEditText/blob/master/DeleteEditText/assets/2.png
